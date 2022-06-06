@@ -8,3 +8,4 @@ hello-world repo for learning purposes
 ## This is a heading 2
 ### This is a heading 3
 > some blockquote text here
+This is alil sometin sometin about myself MC.  i like golf, steaks and the ocean.
